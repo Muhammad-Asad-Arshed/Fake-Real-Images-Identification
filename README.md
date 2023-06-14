@@ -1,6 +1,8 @@
-# Tweets-Twitter-Wall
-This code can be used for getting tweets from twitter wall. As like you want to get tweets of someone wall e.g., Asad Twitter Wall. Tweets will be saved in csv file.
-1. To install dependencies, here is requirements.txt file. Run command "pip install -r requirements.txt"
-2. Set your twitter developer account credentials.
-3. Run the code after specifying screen_name.
-4. Output file will be as csv with tweet text and tweet datetime.  
+# Real Fake
+1. Real_Fake face identification refers to the detection of fake or synthetic faces; it usually involves identifying artificially generated faces or manipulated images that may be used to deceive facial recognition systems.
+
+2. Detecting fake or synthetic faces can be challenging because modern techniques have become quite sophisticated. However, researchers are continuously developing algorithms and methods to tackle this issue. These methods often involve analyzing facial features, texture inconsistencies or using machine learning approaches to differentiate between real and fake faces.
+
+3. It's worth noting that the technology and techniques in this field are continually evolving, and it's advisable to consult the latest research and advancements in the field for the most up-to-date information on real-time face identification and the detection of fake faces.
+
+4. We have used the transformer approach and achieved 99.93% accuracy for 20,000 test images (fake-9980 | real-10020).
