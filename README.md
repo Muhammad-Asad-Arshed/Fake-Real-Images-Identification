@@ -5,4 +5,6 @@
 
 3. It's worth noting that the technology and techniques in this field are continually evolving, and it's advisable to consult the latest research and advancements in the field for the most up-to-date information on real-time face identification and the detection of fake faces.
 
-4. We have used the transformer approach and achieved 99.93% accuracy for 20,000 test images (fake-9980 | real-10020).
+4. I have considered total 1OOK-Images retrieved from the link https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces. 
+
+5. I have used the transformer approach and achieved 99.93% accuracy for 20,000 test images (fake-9980 | real-10020).
