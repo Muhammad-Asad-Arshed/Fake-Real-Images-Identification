@@ -7,4 +7,4 @@
 
 4. I have considered total 1OOK-Images retrieved from the link https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces. 
 
-5. I have used the transformer approach and achieved 99.93% accuracy for 20,000 test images (fake-9980 | real-10020).
+5. I have used the transformer approach and achieved 100% accuracy for 20,000 test images (fake-9980 | real-10020).
